@@ -1,0 +1,62 @@
+{
+  "product": {
+    "name": "AutoStream",
+    "description": "AutoStream is an AI-powered platform that provides automated video editing tools for content creators. It turns raw footage into polished content with captions, cuts, and color grading in minutes, not hours.",
+    "tagline": "Automated editing for Creators, YouTubers, Brands, and Studios"
+  },
+  "pricing": {
+    "plans": [
+      {
+        "name": "Basic Plan",
+        "price": 29,
+        "currency": "USD",
+        "frequency": "per month",
+        "features": [
+          "10 videos/month",
+          "720p resolution"
+        ]
+      },
+      {
+        "name": "Pro Plan",
+        "price": 79,
+        "currency": "USD",
+        "frequency": "per month",
+        "features": [
+          "Unlimited videos",
+          "4K resolution",
+          "AI captions"
+        ]
+      }
+    ]
+  },
+  "features": [
+    {
+      "name": "Smart Auto-Cut",
+      "description": "AI detects silences, jump-cuts, and filler words — auto-removing dead air so every second counts"
+    },
+    {
+      "name": "AI Captions",
+      "description": "98% accurate auto-transcription in 30+ languages. Styled, animated, and burnable in one click"
+    },
+    {
+      "name": "One-Click Colour Grade",
+      "description": "Pick a cinematic LUT preset or let AI analyse your footage and suggest the perfect grade"
+    },
+    {
+      "name": "Audio Cleanup",
+      "description": "Remove background noise, normalise levels, and add royalty-free music — all automatically"
+    },
+    {
+      "name": "Batch Export",
+      "description": "Export 1080p and 4K versions simultaneously in formats optimised for YouTube, Reels, and TikTok"
+    },
+    {
+      "name": "AI Story Agent",
+      "description": "Describe your vision in plain text; the agent assembles a rough cut from your clips"
+    }
+  ],
+  "policies": {
+    "refunds": "No refunds after 7 days",
+    "support": "24/7 support available only on Pro plan"
+  }
+}
