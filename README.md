@@ -14,7 +14,7 @@
 ## 📽️ Demo Video
 
 **Watch the full project demonstration here:**  
-[🔗 Google Drive Video Link](INSERT_YOUR_DRIVE_LINK_HERE)
+[🔗 Google Drive Video Link]([INSERT_YOUR_DRIVE_LINK_HERE](https://drive.google.com/drive/folders/1FIVMg1zx_zUm5TePhpBTXilgQ461H8qK?usp=sharing))
 
 ---
 
